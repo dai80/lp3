@@ -151,25 +151,6 @@ main {
     }
 }
 
-.pr-point-voice__container {
-    border: 1px solid #fa7da3;
-    border-radius: 0.625rem;
-    overflow: hidden;
-}
-
-.pr-point-voice__title__box {
-    background-color: #fa7da3;
-    border-top-left-radius: 0.525rem;
-    border-top-right-radius: 0.525rem;
-}
-
-.pr-point-voice__content__box {
-    background-color: #fff;
-    border-bottom-left-radius: 0.525rem;
-    border-bottom-right-radius: 0.525rem;
-    padding: 1.25rem 1.25rem 1.3125rem 1.3125rem;
-}
-
 /* ヘッダー
 ------------------------------------------ */
 .header {
@@ -716,7 +697,7 @@ h1 img {
     }
 }
 
-.point-catch p {
+.point-catch span {
     font-size: 1.125rem;
     font-weight: 600;
     color: #4d2b1b;
@@ -724,7 +705,7 @@ h1 img {
 }
 
 @media (min-width: 768px) {
-    .point-catch p {
+    .point-catch span {
         font-size: 1.1294rem;
     }
 }
