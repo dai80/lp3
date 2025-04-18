@@ -264,7 +264,7 @@ h1 img {
     .cover__title--main {
         margin-bottom: 1.0625rem;
         font-size: clamp(2.625rem, 8vw, 7.6344rem);
-        text-shadow: 0 10px 10px rgba(250, 125, 163, 1);
+        text-shadow: 0 10px 10px rgba(250, 125, 163, 1),0 10px 10px rgba(250, 125, 163, 1);
     }
 }
 
